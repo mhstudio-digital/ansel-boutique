@@ -3,37 +3,37 @@ const PRODUCTS = [
     name: "Abrigo Étoile",
     price: "$890",
     category: "Abrigos",
-    image: "https://picsum.photos/seed/abrigo/400/500",
+    image: "https://images.unsplash.com/photo-1548624313-0396c75e4b1a?w=400&h=500&fit=crop",
   },
   {
     name: "Vestido Solène",
     price: "$640",
     category: "Vestidos",
-    image: "https://picsum.photos/seed/vestido/400/500",
+    image: "https://images.unsplash.com/photo-1595777457583-95e059d581b8?w=400&h=500&fit=crop",
   },
   {
     name: "Blazer Margaux",
     price: "$520",
     category: "Sastrería",
-    image: "https://picsum.photos/seed/blazer/400/500",
+    image: "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=400&h=500&fit=crop",
   },
   {
     name: "Blusa Aimée",
     price: "$310",
     category: "Blusas",
-    image: "https://picsum.photos/seed/blusa/400/500",
+    image: "https://images.unsplash.com/photo-1485462537746-965f33f7f6a7?w=400&h=500&fit=crop",
   },
   {
     name: "Pantalón Rive",
     price: "$420",
     category: "Pantalones",
-    image: "https://picsum.photos/seed/pantalon/400/500",
+    image: "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=400&h=500&fit=crop",
   },
   {
     name: "Falda Noir",
     price: "$380",
     category: "Faldas",
-    image: "https://picsum.photos/seed/falda/400/500",
+    image: "https://images.unsplash.com/photo-1583496661160-fb5974ca40a9?w=400&h=500&fit=crop",
   },
 ];
 
