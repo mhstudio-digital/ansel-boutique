@@ -33,7 +33,7 @@ const PRODUCTS = [
     name: "Falda Noir",
     price: "$380",
     category: "Faldas",
-    image: "https://images.unsplash.com/photo-1583496661160-fb5974ca40a9?w=400&h=500&fit=crop",
+    image: "https://images.unsplash.com/photo-1577900232427-18219b9166a0?w=400&h=500&fit=crop",
   },
 ];
 
