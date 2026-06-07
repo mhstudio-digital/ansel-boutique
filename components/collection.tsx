@@ -3,37 +3,37 @@ const PRODUCTS = [
     name: "Abrigo Étoile",
     price: "$890",
     category: "Abrigos",
-    image: "https://source.unsplash.com/600x800/?fashion,luxury,minimal&sig=1",
+    image: "https://picsum.photos/seed/abrigo/400/500",
   },
   {
     name: "Vestido Solène",
     price: "$640",
     category: "Vestidos",
-    image: "https://source.unsplash.com/600x800/?fashion,luxury,minimal&sig=2",
+    image: "https://picsum.photos/seed/vestido/400/500",
   },
   {
     name: "Blazer Margaux",
     price: "$520",
     category: "Sastrería",
-    image: "https://source.unsplash.com/600x800/?fashion,luxury,minimal&sig=3",
+    image: "https://picsum.photos/seed/blazer/400/500",
   },
   {
     name: "Blusa Aimée",
     price: "$310",
     category: "Blusas",
-    image: "https://source.unsplash.com/600x800/?fashion,luxury,minimal&sig=4",
+    image: "https://picsum.photos/seed/blusa/400/500",
   },
   {
     name: "Pantalón Rive",
     price: "$420",
     category: "Pantalones",
-    image: "https://source.unsplash.com/600x800/?fashion,luxury,minimal&sig=5",
+    image: "https://picsum.photos/seed/pantalon/400/500",
   },
   {
     name: "Falda Noir",
     price: "$380",
     category: "Faldas",
-    image: "https://source.unsplash.com/600x800/?fashion,luxury,minimal&sig=6",
+    image: "https://picsum.photos/seed/falda/400/500",
   },
 ];
 

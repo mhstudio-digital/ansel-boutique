@@ -5,7 +5,7 @@ export function About() {
         <div className="relative aspect-[4/5] overflow-hidden bg-ink/5">
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
-            src="https://source.unsplash.com/600x800/?fashion,luxury,minimal&sig=7"
+            src="https://picsum.photos/seed/atelier/600/800"
             alt="Atelier ANSEL"
             loading="lazy"
             className="h-full w-full object-cover"
